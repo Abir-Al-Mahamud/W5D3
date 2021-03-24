@@ -11,6 +11,10 @@ body {
   line-height: 1.5;
 }
 
+a {
+  padding: 1%;
+}
+
 ol, ul {
   list-style: none;
 }
